@@ -1,0 +1,8 @@
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_01Sink/bin/Debug/Programa02_01Sink.exe.config
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_01Sink/bin/Debug/Programa02_01Sink.exe
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_01Sink/bin/Debug/Programa02_01Sink.pdb
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_01Sink/obj/Debug/Programa02_01Sink.csprojAssemblyReference.cache
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_01Sink/obj/Debug/Programa02_01Sink.exe
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_01Sink/obj/Debug/Programa02_01Sink.pdb
+/home/javier/repos21082020/CSharpIntermedio/Programa02_01Sink/obj/Debug/Programa02_01Sink.exe
+/home/javier/repos21082020/CSharpIntermedio/Programa02_01Sink/obj/Debug/Programa02_01Sink.pdb

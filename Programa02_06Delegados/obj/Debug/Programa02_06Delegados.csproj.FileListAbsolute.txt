@@ -1,0 +1,8 @@
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_06Delegados/bin/Debug/Programa02_06Delegados.exe.config
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_06Delegados/bin/Debug/Programa02_06Delegados.exe
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_06Delegados/bin/Debug/Programa02_06Delegados.pdb
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_06Delegados/obj/Debug/Programa02_06Delegados.csprojAssemblyReference.cache
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_06Delegados/obj/Debug/Programa02_06Delegados.exe
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_06Delegados/obj/Debug/Programa02_06Delegados.pdb
+/home/javier/repos21082020/CSharpIntermedio/Programa02_06Delegados/obj/Debug/Programa02_06Delegados.exe
+/home/javier/repos21082020/CSharpIntermedio/Programa02_06Delegados/obj/Debug/Programa02_06Delegados.pdb

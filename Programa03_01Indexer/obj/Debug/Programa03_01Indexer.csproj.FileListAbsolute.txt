@@ -1,0 +1,8 @@
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa03_01Indexer/bin/Debug/Programa03_01Indexer.exe.config
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa03_01Indexer/bin/Debug/Programa03_01Indexer.exe
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa03_01Indexer/bin/Debug/Programa03_01Indexer.pdb
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa03_01Indexer/obj/Debug/Programa03_01Indexer.csprojAssemblyReference.cache
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa03_01Indexer/obj/Debug/Programa03_01Indexer.exe
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa03_01Indexer/obj/Debug/Programa03_01Indexer.pdb
+/home/javier/repos21082020/CSharpIntermedio/Programa03_01Indexer/obj/Debug/Programa03_01Indexer.exe
+/home/javier/repos21082020/CSharpIntermedio/Programa03_01Indexer/obj/Debug/Programa03_01Indexer.pdb

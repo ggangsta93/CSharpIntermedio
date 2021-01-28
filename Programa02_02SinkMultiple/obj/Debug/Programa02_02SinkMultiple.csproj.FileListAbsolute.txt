@@ -1,0 +1,8 @@
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_02SinkMultiple/bin/Debug/Programa02_02SinkMultiple.exe.config
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_02SinkMultiple/bin/Debug/Programa02_02SinkMultiple.exe
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_02SinkMultiple/bin/Debug/Programa02_02SinkMultiple.pdb
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_02SinkMultiple/obj/Debug/Programa02_02SinkMultiple.csprojAssemblyReference.cache
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_02SinkMultiple/obj/Debug/Programa02_02SinkMultiple.exe
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_02SinkMultiple/obj/Debug/Programa02_02SinkMultiple.pdb
+/home/javier/repos21082020/CSharpIntermedio/Programa02_02SinkMultiple/obj/Debug/Programa02_02SinkMultiple.exe
+/home/javier/repos21082020/CSharpIntermedio/Programa02_02SinkMultiple/obj/Debug/Programa02_02SinkMultiple.pdb

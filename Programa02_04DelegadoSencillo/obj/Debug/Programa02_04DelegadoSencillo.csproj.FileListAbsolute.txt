@@ -1,0 +1,7 @@
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_04DelegadoSencillo/bin/Debug/Programa02_04DelegadoSencillo.exe.config
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_04DelegadoSencillo/bin/Debug/Programa02_04DelegadoSencillo.exe
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_04DelegadoSencillo/bin/Debug/Programa02_04DelegadoSencillo.pdb
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_04DelegadoSencillo/obj/Debug/Programa02_04DelegadoSencillo.exe
+C:/Users/Javier Arias/source/repos/CSharpIntermedio/Programa02_04DelegadoSencillo/obj/Debug/Programa02_04DelegadoSencillo.pdb
+/home/javier/repos21082020/CSharpIntermedio/Programa02_04DelegadoSencillo/obj/Debug/Programa02_04DelegadoSencillo.exe
+/home/javier/repos21082020/CSharpIntermedio/Programa02_04DelegadoSencillo/obj/Debug/Programa02_04DelegadoSencillo.pdb
